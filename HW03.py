@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 15 12:54:12 2020
 
-@author: simon
+@author: simon and dominick
 """
 
 # CS3210 - Principles of Programming Languages - Spring 2020
